@@ -10,6 +10,6 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning everything
 - 👯 I’m looking to collaborate with other creators.
 - 💬 Ask me about ...
-- 🥅 2021 Goals: Contribute more to Github and create Fun projects
+- 🥅 2021 Goals: Contribute more to Github and create Fun projects (30 Days of Cade, 50 )
 - ⚡ Fun fact: I love to draw, paint and build gundams models.
 
