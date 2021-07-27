@@ -6,8 +6,8 @@ Here are some ideas to get you started:
 #### 💬 Ask me about ...
 
 -->
-![GThub-Banner](https://user-images.githubusercontent.com/50643772/127109163-1255437a-42fd-47c7-96c3-fad00bb6c253.png)
 
+![Copy of GThub-Banner](https://user-images.githubusercontent.com/50643772/127109307-ef993954-0bed-4ef0-80b5-fbe63ef4366f.png)
 
 
 - 🔭 I’m currently working on advancing my skills as a Developer
