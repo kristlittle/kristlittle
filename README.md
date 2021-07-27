@@ -6,7 +6,7 @@ Here are some ideas to get you started:
 #### 💬 Ask me about ...
 
 -->
-![Github-Kristoff](https://user-images.githubusercontent.com/50643772/125717694-ea050e8e-ee26-4ed6-9835-30aad1f97809.png)
+![Github-Kristoff](![GThub-Banner](https://user-images.githubusercontent.com/50643772/127108963-8ea3f057-b28d-4fec-851a-78804e8b743d.png))
 
 
 - 🔭 I’m currently working on advancing my skills as a Developer
